@@ -708,7 +708,7 @@ enum lua_query_type {
   lq_delete_msg,
   lq_restore_msg,
   lq_accept_secret_chat,
-  lq_send_contact,
+   lq_send_contact,
   lq_status_online,
   lq_status_offline,
   lq_send_location,
